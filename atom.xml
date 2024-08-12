@@ -4,7 +4,7 @@
  <title>()=>{} | Void's blog</title>
  <link href="https://maciejmalecki.github.io/atom.xml" rel="self"/>
  <id>https://maciejmalecki.github.io</id>
- <updated>2024-08-12T11:30:44+00:00</updated>
+ <updated>2024-08-12T11:35:04+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -18,10 +18,7 @@
    <link href="https://maciejmalecki.github.io/tony-montezumas-gold"/>
    <id>https://maciejmalecki.github.io/tony-montezumas-gold</id>
    <updated>2024-07-22T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;I’m glad to revive this blog and inform you that together with Rafał Dudek, Adam Gilmore and Sami Juntunen we managed to release a C64 version of the Tony: Montezuma’s Gold.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://maciejmalecki.github.io/blog/cbm/img/tony/ingame.png&quot; alt=&quot;Ingame screenshot&quot; title=&quot;Tony: Montezuma's Gold&quot; /&gt;&lt;/p&gt;
-</content>
+   <content type="html">&lt;p&gt;I’m glad to revive this blog and inform you that together with Rafał Dudek, Adam Gilmore and Sami Juntunen we managed to release a C64 version of the Tony: Montezuma’s Gold.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://maciejmalecki.github.io/blog/cbm/img/tony/ingame.png&quot; alt=&quot;Ingame screenshot&quot; title=&quot;Tony: Montezuma's Gold&quot; /&gt;&lt;/p&gt; &lt;p&gt;The game has been written in KickAssembler and is available for...</content>
  </entry>
 
  
